@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23B1A3C7-81F7-425F-8A4F-F560976553D3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dome2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>69A1D447-798C-40F8-971F-D6665CA7618F</key>
+		<string>https://github.com/fishkingsin/VBO_Example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dome2/Dome2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>69A1D447-798C-40F8-971F-D6665CA7618F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fishkingsin/VBO_Example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>69A1D447-798C-40F8-971F-D6665CA7618F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>69A1D447-798C-40F8-971F-D6665CA7618F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VBO_Example</string>
+		</dict>
+	</array>
+</dict>
+</plist>
